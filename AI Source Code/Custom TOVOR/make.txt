@@ -1,0 +1,3 @@
+Run the following two commands to build CustomTOVOR.jar, which goes in DareFightingICE-7.0/data/ai
+javac -cp "FightingICE.jar" CustomTOVOR.java
+jar -cf CustomTOVOR.jar *.class
