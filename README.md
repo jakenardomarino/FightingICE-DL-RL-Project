@@ -1,4 +1,5 @@
 # DareFightingICE Operation and Custom AI Modification
+<img width="610" height="395" alt="image" src="https://github.com/user-attachments/assets/74aa378d-4b8d-4039-8397-2acb60741d7a" />
 
 ## Project Goals: Learning Strategic Rewards for Fighting Game AI
 
